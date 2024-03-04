@@ -34,22 +34,15 @@ function App() {
     //   "isso acontece"
     // }
     // else {
-    //   "outra coisa acontece"
-    // }
+    
 
-    // // ou você pode precisar por mais de 2 condições, e usar o Else If
-    // if ("alguma coisa") {
-    //   "isso acontece"
-    // }
-    // else if ("outra coisa") {
-    //  "outra coisa acontece"
-    // }
-    // else {
-    //   "por fim isso acontece"
-    // }
+    
+    
+    
+    
   }
 
-  //JSX, equivale ao nosso HTML e CSS
+  
   return (
     <form onSubmit={handleSubmit}>
       <div className="container">
